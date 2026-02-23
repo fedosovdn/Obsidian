@@ -12,5 +12,3 @@
  - [x] reporting 100 -> 50
  - [x] nontrade 100 -> 50
  - [x] dictionarymanagement 300 -> 100
-
-feature/AVT_ITSBO-5351_NewLimits
